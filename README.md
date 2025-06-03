@@ -1,16 +1,26 @@
-## Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-<!--
-**jwakasa/jwakasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Product-minded engineer  
+- 🚀 Founding engineer at a startup  
+- 🛠️ Building from scratch – frontend, backend, infra  
+<br>
 
-Here are some ideas to get you started:
+## 📝 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a founding engineer with a strong focus on building product-driven teams and software from the ground up.  
+Having worked in fast-paced startups and fintech 🏦, I thrive in 0→1 environments where speed, iteration, and ownership matter.  
+From backend to frontend to platform ops, I love solving real problems and shipping features that deliver value 🚀
+<br>
+<br>
+
+## 🛠 Tech Stack
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,go,ruby,dart,next,rails,flutter,terraform,aws,html,css" />
+<br>
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Languages Used" height="170px" src="https://github-readme-stats-jwakasas-projects.vercel.app/api?username=jwakasa&theme=vue-dark&layout=compact" />
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats-jwakasas-projects.vercel.app/api/top-langs/?username=jwakasa&theme=vue-dark&layout=compact" />
+</div>
+
+
